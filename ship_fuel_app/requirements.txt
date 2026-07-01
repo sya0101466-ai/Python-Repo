@@ -1,0 +1,4 @@
+# This is a requirements file for a Python project. It lists the dependencies needed to run the project.
+streamlit
+pandas
+matplotlib
